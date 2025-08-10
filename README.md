@@ -32,7 +32,6 @@ The project explores the **severity of air pollution**, its **health impacts**, 
 
 ```
 📁 data/                  # Raw datasets from DataFul  
-📁 processed_data/        # Cleaned & merged datasets for Power BI  
 📁 scripts/               # Python scripts for processing and analysis  
 📁 dashboard/             # Power BI .pbix file  
 📁 presentation/          # PPT/PDF deck for final presentation  

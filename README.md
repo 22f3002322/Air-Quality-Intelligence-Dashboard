@@ -31,7 +31,8 @@ The project explores the **severity of air pollution**, its **health impacts**, 
 ## 📂 **Repository Structure**
 
 ```
-📁 data/                  # Raw datasets from DataFul  
+📁 data/                  # Raw datasets from DataFul
+📁 research docs/         # Research docs used to conclude analysis  
 📁 scripts/               # Python scripts for processing and analysis  
 📁 dashboard/             # Power BI .pbix file  
 📁 presentation/          # PPT/PDF deck for final presentation  
